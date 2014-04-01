@@ -3,11 +3,11 @@ git-lab
 
 CSCI 104 - Lab 11 with Alice &amp;&amp; Bob
 
-Alice: Christin Carter
+Representing Alice: Christin Carter
 cart587@usc.edu
 cart587
 
-Bob: Nathan Yanaga
+Representing Bob: Nathan Yanaga
 yanaga@usc.edu
 nyanaga
 
