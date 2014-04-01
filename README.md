@@ -13,4 +13,4 @@ nyanaga
 
 Tuesday @ 3pm
 
-The Steroidtocat
+The Steroidtocat https://octodex.github.com/images/steroidtocat.png
